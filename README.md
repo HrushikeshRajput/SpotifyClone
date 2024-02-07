@@ -1,4 +1,4 @@
 # Title of project
-This is the SpotifyClone 
+This is the SpotifyClone. 
 # Devloped By-
 Hrushikesh Rajput
